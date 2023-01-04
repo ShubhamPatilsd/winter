@@ -22,6 +22,6 @@ What materials will you need for your project? Where will you get them? How much
 
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
-| Pack of wires   | https://www.adafruit.com/product/1957 | $1.95  |
-| 1.8"LCD display | https://www.adafruit.com/product/358  | $19.95 |
+| Raspberry Pi 4 Model B   | https://www.amazon.com/Raspberry-Model-2019-Quad-Bluetooth/dp/B07TC2BK1X/ref=sr_1_3?crid=1T4YJ189T3PN8&keywords=rpi&qid=1672851082&sprefix=rpi%2Caps%2C221&sr=8-3 | $162.89  |
+| GPS Module | https://www.amazon.com/gp/product/B078Y52FGQ/ref=oh_aui_detailpage_o02_s02?ie=UTF8&psc=1  | $15.49 |
 | Total           |                                       | $21.90 |
